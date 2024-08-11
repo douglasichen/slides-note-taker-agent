@@ -1,0 +1,3 @@
+{
+    "notes": "# Technical Skills Section - Example 1\n\n## Technical Skills\n\n| Category | Skills |\n|----------|--------|\n| Programming | Java, C/C++, Haskell, Python* |\n| Tools/Environment | Eclipse, JIRA, GitHub, LAMP* |\n| Testing | JUnit, GDB, TDD, writing test plans |\n| Web | HTML5, CSS, JavaScript, Node.js |\n\n*currently acquiring\n\n### Important Guidelines:\n- Limit \"currently acquiring\" skills to no more than 1/3 of total listed\n- Exceeding this limit may reduce credibility\n\n### Do not include:\n- Windows or MacOS (if it's just your personal computer's OS)\n- Microsoft Office (unless Excel is specifically relevant to the job)\n- Typing speed\n\n> Note: Tailor technical skills to prospective job requirements"
+}

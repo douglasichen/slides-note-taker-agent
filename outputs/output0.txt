@@ -1,0 +1,1373 @@
+# Science Co-op Workshops
+
+## Module 1.1: Make Your Resume Stand Out
+
+### Overview
+- **Type**: Pre-reading workshop
+- **Format**: Zoom meeting
+- **Field**: Computational Sciences
+
+### Key Points
+- Preparatory session for resume improvement
+- Participants should bring questions to the Zoom workshop
+- Focused on computational sciences field
+
+### Workshop Details
+1. **Objective**: Enhance resume to stand out in job applications
+2. **Participation**: Interactive Q&A format
+3. **Pre-work**: Attendees expected to prepare questions
+
+### Additional Notes
+- Part of a larger workshop series (Module 1.1 implies more modules)
+- Tailored for science co-op students
+- Likely aimed at university students (campus image in background)
+
+---
+
+*Image: Aerial view of a university campus with lush green areas and modern buildings*
+# Overview
+
+## Co-op Resume Sections
+- Focus on Technical Sections
+
+## Accomplishment Statements and Competency
+
+## Use of GenAI with Resume Writing
+
+## Technical Accomplishment Statement Examples
+
+---
+*Science Co-op Workshops*
+# Co-op Resume
+
+- Title slide for a presentation or workshop on creating co-op resumes
+- Part of Science Co-op Workshops series
+- Focus on tailoring resumes for cooperative education programs
+- Suggests guidance on resume writing for science students seeking co-op positions
+
+## Key Points:
+1. Specialized resume format for co-op applications
+2. Likely covers structure, content, and best practices
+3. Tailored for science students and industry expectations
+4. Workshop format implies interactive or instructional content
+# Resume
+
+## Definition
+- Summary of qualifications (training and experience) **relevant to the job** applied for
+
+## Purpose
+- To secure a job interview, **NOT** the job
+
+## Types
+1. **Chronological**
+   - Most common
+   - Experience listed by recency (reverse chronological order)
+2. **Functional**
+   - Grouped by skills/functions
+   - Highlights relevant skills scattered in chronological resume
+
+## Best Practices
+- **Don't** use infographics for technical resumes
+- Write most sections in bullet points (4-7 per "paragraph")
+
+## Canadian Distinction
+- Resume and CV are different:
+  - Resume: 1-2 pages for non-academic jobs
+  - CV: Unlimited pages for academia/graduate/professional schools; focus on publications
+
+*Source: Science Co-op Workshops*
+# A Tale of Two Readers: Human vs ATS
+
+## Resume Readers
+- Human
+- Machine (ATS - Applicant Tracking System)
+
+## Contradictory Needs and Preferences
+
+| Human | ATS |
+|--------|-----|
+| Attracted to visual design | Struggles with graphics, charts, tables |
+| Handles language ambiguity | Seeks specific keywords and acronyms |
+| Prefers simple, short sentences | Indifferent to sentence length |
+| Font size 10-12 for readability | Uses basic fonts (Arial, Calibri, etc.) |
+| Likes design-centric templates | Prefers .docx, .pdf; some dislike .pdf |
+| Recognizes personality and project complexity | Cannot assess complexity or uniqueness |
+
+### Key Differences
+- Humans recognize broader terms (e.g., "Adobe Creative Cloud")
+- ATS looks for specific software names (e.g., "Photoshop")
+- Humans understand "JS" and "What I have Done"
+- ATS seeks "JavaScript" and "Work Experience"
+
+**Note:** Follow document upload instructions; ATS preferences may vary.
+# Possible Sections of a Resume
+
+> These are possible sections; you don't need to include all of them. Too many sections will make the resume choppy – try to limit to 5-6 sections.
+
+## Key Sections:
+
+1. **Technical Skills**
+   - Summary replacing "Objective" section in non-technical resumes
+
+2. **Technical Work Experience**
+   - Ideal after first Co-op placement or paid programming/QA experience
+
+3. **Technical Projects**
+   - Can separate into Academic/Personal/Hackathon
+   - Especially if 2+ projects per category
+
+4. **Technical Extracurricular Activities**
+   - Hackathons, Online Courses, Technical Volunteer Work
+   - May merge with "Technical Projects" section
+
+5. **Additional Work Experience**
+   - Non-technical work experience
+
+6. **Volunteer / Community Involvement Experience**
+   - Non-technical
+
+7. **Education**
+   - Scholarships & Awards
+   - Specify start and expected grad date
+   - Include Co-op time
+   - Place at end for Co-op resume
+
+8. **Activities / Interests**
+   - Show activities outside coding
+
+*Note: Limit to 5-6 sections for a concise, effective resume.*
+# Work Experience & Volunteer Experience
+
+## Key Points
+- Create two separate sections:
+  - Work = paid
+  - Volunteer = unpaid
+
+## Demonstrating Transferrable Skills
+Include non-technical experience showcasing:
+- Leadership
+- Communication
+- Teamwork
+
+### Examples:
+- **Customer Service:** Food Server, Bus-person, Barista
+- **Leadership & Communication:** Tutor, Teaching Assistant, Camp Counsellor
+- **Organization & Communication:** Retail sales, Grocery Clerk
+- **Teamwork & Leadership:** Cadets, Girl Guides
+
+## Writing Guidelines
+- Use past tense (unless currently employed)
+- Ensure grammar and structure parallelism in sentences
+
+*Note: Image from Science Co-op Workshops*
+# Non-Technical Experience
+
+## Value of Soft Skills
+- Demonstrates communication and leadership skills
+- Useful for cover letters and interviews
+
+## KISS Principle
+- **Keep It Short, Sweet and Simple**
+- Group similar work experiences
+- Use one title entry for non-relevant jobs
+
+### Example:
+```
+Starbucks (Aug 2024-present) | Tim Hortons (May-Sep 2023) | Bubble Tea House (Oct 2022 – Apr 2023)
+- Promoted to shift leader after 2 months at Starbucks
+- Crafted customizable drinks outside regular menu
+```
+
+## Be Bold, Quantifiable & Specific
+- Focus on outcomes, not tasks
+
+### Examples:
+- **Close up the store:** Entrusted with closing procedures, sales tallying, premise security
+- **Fold clothes:** Ensured inventory processing, pricing, and display for sales
+- **Answer customer inquiries:** Drove sales through engagement, suggestive selling, product knowledge sharing
+# Co-op Resume Tips
+
+- **Privacy:**
+  - Do **not** include physical address or city
+  - Do **not** include picture (save for LinkedIn)
+
+- **Design:**
+  - Use high contrast colors (e.g., black, deep blue)
+  - Avoid light colors like sky blue or charcoal grey for printing
+
+- **Content:**
+  - Replace 'Objective' section with 'Technical Skills'
+  - 'Objective' only needed with years of experience and clear career goals
+
+*Note: Image from Science Co-op Workshops*
+# Co-op Branding
+
+## Key Points
+- **UBC Sci Co-op**: Recognized brand by employers
+  - Use even when applying outside SCOPE
+
+- **Branding Resources**: Available in SCOPE under "Student Resources"
+  - Footer JPEG/PNG files provided
+
+## SCOPE Interface
+![SCOPE Student Resources](image_url_here)
+
+### Available Resources
+- UBC Science Co-op Brand - Resume Footer
+  - Word doc (*NEW*)
+  - Footer in PNG (*NEW*)
+  - Footer in JPEG (*NEW*)
+
+### Additional Resources
+- Job Application Summary Sheet
+- Instructional Videos
+  - Getting Started with SCOPE
+  - Job search strategies
+  - Applying to postings
+  - Interview sign-up process
+
+---
+*Note: Image shows SCOPE interface with Student Resources section highlighted*
+# Co-op Resume Structure
+
+## Contact Information
+- Name
+- Email
+- Phone
+- GitHub
+
+## Technical Skills
+- Programming Languages
+- Tools
+
+## Technical Projects
+1. **Glucose Monitor (Hackathon)** - Apr 2024
+   - Project description
+   - Accomplishments
+
+2. **To-Do List (Academic)** - Sep-Dec 2023
+   - Project description
+   - Accomplishments
+
+3. **Rubik's Cube Scrambler (Personal)** - Aug 2023
+   - Project description
+   - Accomplishments
+
+## Work Experience
+- Tim Hortons (Jun 2024-present)
+  - Accomplishment
+
+## Education
+- University of British Columbia (Sep 2022-May 2027)
+  - 2nd year Bachelor of Science, Major in Computer Science
+  - Awards: Bill Aiello Memorial Award (2023)
+  - Specialized courses
+
+## Footer
+- UBC Science Co-op logo and contact information
+- Science Co-op Workshops stamp
+# Accomplishment Statements
+
+- Key topic in professional development and resume writing
+- Presented by Science Co-op Workshops
+- Focuses on effectively communicating achievements
+
+## Importance:
+- Highlight specific contributions and results
+- Demonstrate value to potential employers
+- Differentiate from other candidates
+
+## Best Practices:
+1. Use action verbs
+2. Quantify results when possible
+3. Provide context and impact
+4. Be specific and concise
+
+## Structure:
+- Action verb + Task + Result/Impact
+
+> Example: "Implemented new inventory system, reducing stockouts by 30% and improving customer satisfaction."
+
+**Note:** Tailor accomplishment statements to job requirements and industry standards.
+# Accomplishment Statements
+
+- **Resume as marketing tool**: Sell yourself with past examples demonstrating job-relevant skills
+- **Portray impact**: Show ability to make a difference through past accomplishments
+- **Lead with action verbs**: Start each bullet point with a strong action verb (refer to Canvas sample list)
+- **Use SAR structure**:
+  1. Situation (problem/opportunity/issue)
+  2. Action taken
+  3. Results accomplished
+- **Focus on facts**: Substantiate statements with facts, not adjectives
+
+## Key Points:
+- Be specific in each bullet point
+- Convince reader of your capabilities
+- Highlight strengths and past achievements
+- Use concrete results and measurable outcomes
+
+*Note: Image from Science Co-op Workshops*
+# Accomplishment Statements
+
+## Levels of Detail
+
+1. **Level 1: Basic**
+   - Describe the duties
+
+2. **Level 2: Skill**
+   - Include the skills used to do the task
+
+3. **Level 3: Accomplishments**
+   - Show your achievement and competency level in the skill
+
+---
+
+*Note: This hierarchy helps in crafting comprehensive and impactful accomplishment statements, progressing from basic job descriptions to demonstrating specific skills and ultimate achievements.*
+# Level 3 Accomplishment Statements
+
+## Quantified Accomplishments
+- Often measured by numbers:
+  - Reduced processing time: 3 hours → 2 hours
+  - Page refresh time: -35%
+  - Site-hit: +15%
+  - App downloads: 500 in first month (AppStore)
+
+## Non-Quantifiable Accomplishments
+- For school projects, focus on **competency level**:
+  - Higher competency examples:
+    - "Developing a program in microservices" vs "developing a program in modules"
+    - "Setting an SQL database that prevents injection" vs "Setting up an SQL database from ER diagram"
+
+> Note: Emphasize skill level when quantification is challenging.
+# What is Competency?
+
+- Competency = proficiency in a skill; shows level (beginner, intermediate, advanced) through techniques used
+
+## Competency Levels
+
+| Competency for Starters | Higher Competency |
+|-------------------------|-------------------|
+| Solving differential equations | Applying linear approximation |
+| Iterating through an array | Traversing a tree |
+| Setting up a webpage using HTML tags | Writing a webpage with JavaScript |
+| Installing OS on a computer | Setting up a Linux server |
+
+*Note: Table demonstrates progression from basic to advanced skills in various domains.*
+# Show Competency Through Techniques Used
+
+## Project Progression
+- All three projects involve setting up webpages
+- Demonstrate skill advancement and deepening
+- Employers seek evidence of skill progression in projects
+
+## Project Details
+
+### Project A
+- Used HTML and CSS for webpage styling
+- **Comment**: Minimal level 2 accomplishment
+
+### Project B
+- Implemented responsive design techniques:
+  - Defined breakpoints
+  - Used fluid grid
+  - Incorporated flexbox
+- Verified responsiveness with checker tool
+- **Comment**: Standard level 2 techniques for webpage responsiveness
+
+### Project C
+- Optimized responsive webpage loading speed:
+  - Implemented caching and minification
+  - Used Google PageSpeed Insights
+  - Reduced render-blocking JS
+  - Applied mobile-first principle for testing
+- **Comment**: Demonstrates higher competency (level 3)
+  - Shows in-depth knowledge of webpage responsiveness
+  - Achieves faster page load
+
+## Key Takeaway
+Projects showcase progression from basic webpage styling to advanced optimization techniques, indicating growing expertise in web development.
+# How to Describe Your Projects with Accomplishment Statements
+
+## Guidelines
+- Write 2-5 accomplishment statements for Technical Project, Work Experience, and Volunteer Experience sections
+- Exclude from Interests section
+- Provide context (WHO/WHAT) in first bullet
+- Explain HOW and WHY using technical keywords
+- Avoid keyword stuffing (ATS flag)
+
+## Structure
+1. Context (WHO/WHAT)
+2. Technical implementation (HOW/WHY)
+
+## Evaluation
+- Level 3 statements: balance technical details with clarity
+- Avoid:
+  - Lists of technical keywords only
+  - Non-technical descriptions lacking implementation details
+
+## Example: Retrace App - Fullstack Key Location Tracker
+
+**Project Duration:** Mar-Apr 2024
+
+1. Leveraged OOP with Java for 6 user stories, 100% unit test coverage (CI/CD)
+2. Implemented end-to-end data persistence (JSON save/load) and documentation for key tracker GUI
+3. Designed UI/UX elements: wireframes, personas, journey maps, storyboards
+
+**Note:** Example demonstrates technical depth and project context effectively
+# Checklist for Writing Accomplishment Statements
+
+1. **Avoid Level 2 Statements**
+   - Don't use format: "frontend in React, backend in Node"
+   - Aim for level 3: Show skill differentiation and technical progression
+
+2. **Improve Readability**
+   - Avoid dense sentences (>4 ideas in 2 lines)
+   - Break into multiple bullets or use semicolons
+
+3. **Use Strong Action Verbs**
+   - Avoid weak verbs: learn, responsible for, gain experience in
+
+4. **Natural Language**
+   - Avoid unnatural (GenAI) verbs: orchestrated, architected, championed
+
+5. **Substantiate Adjectives**
+   - Provide specifics to support subjective descriptions
+   
+   Example:
+   - Original: "Write detail-oriented bug reports" (vague)
+   - Revised: "Designed and executed manual tests in networking and UI layers; tracked defects in JIRA with detailed screenshots, video clips, environment setups, speculation of possible causes, and verified software fixes"
+
+*Source: Science Co-op Workshops*
+# Focus: Technical Sections
+
+## Key Areas:
+1. **Technical Skills**
+2. **Technical Projects**
+3. **Technical Extra-Curricular**
+
+---
+
+> Workshop by Science Co-op Workshops
+
+- Emphasis on developing and showcasing technical proficiency
+- Covers both academic and extracurricular technical experiences
+- Aimed at enhancing resume/CV for science and technology fields
+# Technical Skills Section - Example 1
+
+## Technical Skills
+
+| Category | Skills |
+|----------|--------|
+| Programming | Java, C/C++, Haskell, Python* |
+| Tools/Environment | Eclipse, JIRA, GitHub, LAMP* |
+| Testing | JUnit, GDB, TDD, writing test plans |
+| Web | HTML5, CSS, JavaScript, Node.js |
+
+*currently acquiring
+
+### Important Guidelines:
+- Limit "currently acquiring" skills to no more than 1/3 of total listed
+- Exceeding this limit may reduce credibility
+
+### Do not include:
+- Windows or MacOS (if it's just your personal computer's OS)
+- Microsoft Office (unless Excel is specifically relevant to the job)
+- Typing speed
+
+> Note: Tailor technical skills to prospective job requirements
+# Technical Skills Section - Example 2
+
+## Technical Skills
+
+### Programming
+- Java (4 yr)
+- C/C++ (3 yr)
+- Go
+
+### Tools/Environment
+- Eclipse (3 yr)
+- JIRA (3 yr)
+- Github (3 yr)
+- LAMP (currently acquiring)
+
+### Testing
+- JUnit
+- GDB
+- TDD
+- Writing test plans
+
+### Web
+- React.js
+
+> **Note:** Choose this format only when the time that you have acquired the skill is long enough to look decent on the resume. If every skill has been learnt for only 1 or 2 terms, then do not use this format.
+
+---
+*Source: Science Co-op Workshops*
+# Technical Projects
+
+## Importance
+- One of **the most important factors** in successful job search
+- Particularly crucial for WT1
+
+## Personal Technical Projects
+Employers value these as they demonstrate:
+- Passion for programming and potential
+- Programming experience beyond school
+- Self-motivation & initiative
+- Use of GitHub for project storage/sharing
+
+## Project Progression
+- Should show increasing complexity
+- Example: Pac-Man → Runner game → Multi-device players
+
+## Personal Project Examples
+- 2-way snake games on two devices
+- NHL news feed floating above all apps
+- Discord bot message broadcaster (multiple servers)
+- Open source project bug fixes
+- Co-op online job application tracker
+
+> Note: Use GitHub to store and share both school and personal projects
+
+*Source: Science Co-op Workshops*
+# Technical Projects
+
+## Key Guidelines
+- Include **Month Year** to show project currency
+- List projects in **reverse chronological order**
+  - Most recent end date first
+  - For same end date, list more recent start date first
+- Write in **accomplishment statements**
+
+## Typical Format
+```
+Project Title | (project type) | <tech skills used>                 Start Date – End Date
+• Context: Non-technical project description
+• Action-Result: What did you do? What skills were applied? How? What were the outcomes?
+• Action-Result: Additional details on actions, skills, and outcomes
+```
+
+## Project Types
+- Academic
+- Personal
+- Hackathon
+- Volunteer
+
+---
+*Note: Format designed for clear presentation of technical projects in a resume or portfolio.*
+# Technical Projects: Examples
+
+## Organized by projects (most popular: recommended)
+
+### Geotagging of Photos Stored on Android Phones (Sep - Dec 2023)
+- Extracted GPS location of photos using JSON parser
+- Extended open source project: added doodle feature (PHP, Objective-C)
+- Skills: Android, Open Source, JavaScript, PHP
+
+### Chronic Kidney Disease Prediction Model (academic) (Jun - Aug 2021)
+- Created prediction model in R using biological and health data
+- Used data science libraries (tidyverse, ggplot2) for analysis
+- Achieved 98% accuracy in predicting CKD
+
+## Organized by programming languages (for many small projects)
+
+### Java Programming Projects
+- FTP server simulation with encryption (Sep 2024 - Present)
+- Database tool for music albums using Oracle and DBMS (Jan - Apr 2024)
+
+### Python Programming Projects
+- Tic-Tac-Toe game with stale state recognition (Aug 2024)
+- Rolling Dice with touch interface (July 2024)
+# Technical Extra-Curricular Activities
+
+## Hackathons & Coding Competitions
+- nwHacks, Major League Hacking (MLH)
+- Devpost: cash prizes, various entry levels and software areas
+- Google CodeJam (discontinued 2023, [archive here](here))
+- ICPC Programming Competition
+
+## Online Learning Resources
+- CodeChef.com: non-commercial programming community
+- Project Euler: mathematical/computer programming problems
+- Udemy, edX, Codecademy, LinkedIn Learning
+
+## Data Science and ML
+- Kaggle.com: data prediction competitions, datasets for learning/projects
+- Drivendata.org: solving data problems for non-profits
+- MachineHack: open online hackathons, learning resources, datasets
+- DataHack Analytics Vidhya: data science, ML hackathons
+
+## UBC Student Club and Volunteer Opportunities
+- CTF Maple Bacon, Blockchain, various [Engineering Design Teams](Engineering Design Teams)
+- UBC Emerging Media Lab, Visual Cognition Lab
+- CS Dept's GIRLsmarts4tech
+
+*Source: Science Co-op Workshops*
+# Use of GenAI with Resume Writing
+
+## Key Points:
+- Topic: Applying Generative AI to resume creation
+- Context: Science Co-op Workshops
+
+### Potential Applications:
+- Optimizing resume content
+- Tailoring resumes to specific job descriptions
+- Generating compelling bullet points
+
+### Considerations:
+- Ethical use of AI in job applications
+- Maintaining authenticity in AI-assisted resumes
+- Balancing AI suggestions with personal experience
+
+### Next Steps:
+- [ ] Research best practices for AI in resume writing
+- [ ] Explore AI tools specifically designed for resumes
+- [ ] Discuss implications with career advisors
+# Preliminary Considerations
+
+## Data Security
+- Resumes and cover letters contain personal data
+- Data stored on servers outside Canada
+- Used to further train AI models
+
+### Tool Comparison
+| Tool | Personal Info for Signup? | Protects Personal Info? |
+|------|---------------------------|-------------------------|
+| Bing Chat (Consumer) aka Copilot | No (students use without authentication) | No (shares info outside Canada) |
+| ChatGPT | Yes (phone number and email required) | No (shares info outside Canada) |
+
+Source: [UBC Privacy Impact Assessments](https://ai.ctlt.ubc.ca/privacy-impact-assessments-for-generativeai-instructional-use-at-ubc/)
+
+## Employer Opinions on GenAI
+- Rise in GenAI-produced applications noted
+- Applications not necessarily eliminated
+- Responsible usage required:
+  - GenAI should assist in resume writing
+  - Avoid having GenAI do all the work
+
+*Note: Workshop by Science Co-op*
+# Comparing Resumes to Job Descriptions
+
+## GenAI Assistance
+- Analyzes job descriptions
+- Identifies missing skills/experience in resume
+
+## Possible Prompts
+1. Compare job description to resume, identify gaps
+2. Assess resume strengths/weaknesses vs. job description
+3. Suggest resume improvements based on job description
+4. Identify skills to add for job qualification
+
+**Note:** Don't add skills you don't have!
+
+## Missing Qualifications (Job Description vs. Resume)
+1. **C++ and Qt:** Emphasis on C++ (back-end/front-end) and Qt; resume lacks Qt specifics
+2. **Spatial Data and FME:** Focus on spatial data/FME; resume lacks explicit mention
+3. **Back-end Tools:** Visual Studio, SCons, Git mentioned; resume lacks back-end context
+4. **Toolkits/Libraries:** Qt, Boost, STL, cURL, OpenSSL, Xerces, ICU, GEOS; not in resume
+5. **Cloud Services:** AWS, Azure, Dropbox mentioned; resume lacks specific experience
+
+## Key Takeaway
+GenAI can help identify resume gaps for targeted job applications.
+# AI-Generated Resume Analysis
+
+## GenAI Strengths
+- Provides inspiration for level 3 accomplishment statements
+
+## GenAI Weaknesses
+- Can be very wordy, bloated
+- May not follow typical resume conventions (e.g. bolded headers, multiple sentences in bullet point)
+- Can invent information (such as fake job titles)
+- Can overly exaggerate achievements
+
+## Example Comparison
+
+### Original AI-Generated Version
+- Verbose and detailed
+- Multiple sentences per bullet point
+- Includes potentially exaggerated language
+
+### Improved Version
+- Concise and to-the-point
+- One clear statement per bullet point
+- Focuses on key achievements without embellishment
+
+## Key Takeaways
+1. AI can provide a starting point for resume content
+2. Human editing is crucial for:
+   - Ensuring accuracy
+   - Adhering to resume conventions
+   - Balancing detail with conciseness
+3. Be cautious of AI tendency to invent or exaggerate information
+# AI-Generated Resume: GenAI Weaknesses
+
+## Key Points:
+- Lacks consideration for action verb improvements
+- Overuses weak verbs like "learned"
+- Focuses on demonstrating competencies better suited for cover letters
+- Relies on adjectives instead of specifics
+- Uses unsubstantiated adjectives as achievements
+
+## Example Comparison:
+### User's Resume:
+- Time frame: Jan 2023 - May 2023
+- Project: Google Classroom Clone
+- Skills: Node.js, MySQL, Relational Databases, Bootstrap, JavaScript, HTML, CSS
+- Hosting: Raspberry Pi with Apache, then Digital Ocean
+
+### ChatGPT's Version:
+- Improved structure with clear sections
+- Added project overview
+- Highlighted specific skills and technologies
+- Emphasized adaptability in server configuration
+
+## Takeaways:
+1. AI tends to use generic terms and weak verbs
+2. Human input needed for impactful, specific achievements
+3. AI-generated content may require substantial editing
+4. Cover letter content shouldn't dominate resume space
+5. Quantifiable results and specific examples are crucial
+# Writing Better Technical Accomplishment Statements
+
+- Topic: Improving technical writing skills
+- Focus: Accomplishment statements
+- Presented by: Science Co-op Workshops
+
+## Key Points:
+1. Enhance clarity in technical writing
+2. Emphasize achievements and results
+3. Tailor statements for technical audiences
+
+## Potential Benefits:
+- Improved communication of technical work
+- Better representation of skills and accomplishments
+- Enhanced professional documentation
+
+## Action Items:
+- [ ] Review current technical writing samples
+- [ ] Practice crafting concise accomplishment statements
+- [ ] Seek feedback from peers or mentors
+# Learn from Other Sources
+
+- Read job descriptions from Indeed, LinkedIn etc.
+- Research different roles (e.g. fullstack developer, devOps developer):
+  - Tools, frameworks, key concepts, skills
+  - Resources: Simplilearn.com, GeeksforGeeks.com, Job Bank of Canada
+- Use resume checker/GenAI:
+  - Match resume with job keywords
+  - Don't adopt all suggestions
+- Get recruiter feedback at career fairs, employer events
+- Exchange and critique resumes with friends
+- Review resume again with Coordinator
+
+*Note: Image from Science Co-op Workshops*
+# Learn from an Existing Job Desc: Fullstack Dev
+
+## Key Requirements:
+1. **Cross-platform development**
+   - Web-based features
+   - User interfaces
+   - Node.js-based services for content safety platforms
+
+2. **Frontend expertise**
+   - Strong JavaScript/HTML/CSS skills
+   - Concepts: async programming, closures, types, layouts, specificity, animation
+   - Cross-browser compatibility and accessibility
+
+3. **Web frameworks**
+   - Deep understanding of React/Vue/Angular
+   - Design philosophy and implementation
+
+4. **Build tools**
+   - Experience with Webpack/Rollup/Babel/AST/Gulp
+
+5. **Architecture knowledge**
+   - Frontend-backend multi-tier application architecture
+   - Protocols
+   - Product and SDLC familiarity
+
+6. **Optimization skills**
+   - User experience
+   - Stability and scalability
+   - Code modularity
+   - Rendering latency
+
+*Source: Science Co-op Workshops*
+# Learn from an Existing Job Desc: SW Tester
+
+## Key Responsibilities:
+- Collaborate with business SMEs and vendors on test cases/scripts
+- Execute software and integration testing
+- Participate in defect triaging
+- Prepare regression and UAT scenarios
+- Conduct backend and API testing
+
+## Testing Activities:
+- Create and modify test cases/scripts
+- Plan and execute functional and integration tests
+- Record results and communicate progress
+- Work with team on test execution and defect logging
+- Support and maintain test tools (e.g., TestRail)
+
+## Communication:
+- Report to QA Lead/Project Manager
+- Provide written work and test reports
+- Escalate issues to leadership
+- Interact with developers, analysts, and other testers
+
+## Skills Required:
+- Troubleshooting: Windows OS, web, client/server apps
+- Test suite preparation
+- Defect management
+- API testing knowledge
+- Proactive problem-solving
+
+## Tools:
+- TestRail
+- API testing tools
+
+*Note: Image source - Science Co-op Workshops*
+# Learn from an Existing Job Desc: UX Designer
+
+## Key Responsibilities:
+
+1. **Expertise in UX/Content Strategy**
+   - Develop and execute online user experience/content strategy
+   - Incorporate best practices in user experience
+
+2. **Prototyping and Usability**
+   - Develop processes for prototyping activities
+   - Lead prototyping to define and test usability requirements
+   - Ensure specifications and new features follow standards/best practices
+
+3. **Design and Information Architecture**
+   - Design information architecture, wireframes, page templates, navigation
+   - Create functional specifications
+   - Identify opportunities for new functionality and connectivity
+
+4. **User Experience Analysis**
+   - Provide feedback and recommendations on user experience
+   - Analyze web analytics, visitor feedback, performance metrics, and other tools
+
+*Note: This job description outlines core competencies for a UX Designer role, emphasizing strategy, prototyping, design, and analysis skills.*
+# Learn from an Existing Job Desc: Data Scientist
+
+## Key Responsibilities:
+- Identify, clean, integrate large datasets
+- Use ML for data conversion and analysis
+- Apply ML models for predictions and workload reduction
+- Proficiency in advanced ML methods and software
+
+## Required Skills:
+- Statistical and data mining techniques:
+  - GLM, regression, bootstrapping, random forests
+  - Boosting, trees, text mining, social network analysis
+  - Simulation, scenario analysis, clustering
+  - Decision trees, neural networks
+
+## Technical Proficiencies:
+- Languages: Python, SQL, R, SAS
+- Data visualization: R, ggplot, Tableau, PowerBI, Matplotlib, D3, Periscope/Sisenseor
+
+*Note: Image from Science Co-op Workshops*
+# Government of Canada - Job Bank
+
+## Key Features
+- Provides inspirations for job duties/tasks
+- Database: https://www.jobbank.gc.ca/trend-analysis/search-occupations
+- Outlines main duties and other useful information
+- Not written as accomplishment statements
+
+## Example: Software Engineers and Designers
+
+### Job Duties
+- Collect and document user requirements
+- Research and synthesize technical information
+- Develop data models and network architectures
+- Plan and coordinate system development
+- Assess, test, and maintain systems
+- Lead development teams
+
+### Related Job Titles
+- Application architect
+- Cloud infrastructure engineer
+- Software project manager
+- Mobile development lead
+- Site reliability engineer
+
+### Similar Occupations
+- Computer engineers
+- Database analysts
+- Web developers
+- Information systems managers
+- Software developers
+
+## Benefits
+- Explore related jobs
+- Comprehensive occupational categories
+- Detailed job descriptions
+# Resume Checkers
+
+- Online software comparing keyword match rate of resume against job description
+
+## Popular resume checkers:
+- Jobscan
+- Resume Worded
+
+## Features and Considerations:
+- Identify non-parsable elements for ATS
+- Provide suggestions and alternatives
+- Data privacy concerns
+- Potential subscription fees
+- GenAI integration or replacement of function
+
+## Note:
+Presented by Science Co-op Workshops
+# Technical Statement Examples
+
+- Title slide for a presentation or workshop
+- Presented by Science Co-op Workshops (logo visible)
+- Focus on providing examples of technical statements
+- Suggests content will cover:
+  - Definition of technical statements
+  - Various examples in different contexts
+  - Possibly best practices for crafting technical statements
+
+> Note: This slide appears to be an introduction to a more detailed presentation on the topic of technical statements in scientific or technical writing.
+# Ex. 1: Be Concise but Not Choppy
+
+## Chinese Checkers Project
+
+### Original Description
+- Implemented in Scheme
+- AI plays against human opponent
+- Brute force program with generative recursion, arbitrary arity trees and backtracking search
+- Continues playing to correct end state even if winning is impossible
+
+### Revised Description
+**Chinese Checkers Game (Racket)** | Sep - Nov 2023
+
+- Developed single-player game in Racket (LISP-like)
+- AI opponent uses brute force algorithm:
+  - Generative recursion
+  - Arbitrary arity trees
+  - Backtracking search
+- Program continues correct play even if win is unreachable
+
+### Key Improvements
+1. Specified programming language (Racket)
+2. Clarified AI's role and algorithm
+3. Added project timeframe
+4. Removed ambiguous terms (e.g., 'correct' end state)
+5. Streamlined description for clarity
+
+> Note: Aim for concise yet informative project descriptions.
+# Ex. 2: Provide Details/Specifics
+
+## 2 Player Snake
+- Implemented in Scheme
+- Player versus player
+
+> No implementation details. This could have been describing a chess game, or a Connect Four
+
+> Missing project date
+
+## REVISED: 2-Player Snake Game
+**Duration:** Nov 2023—Aug 2024
+
+> Optional: add supplementary information when the reader may not be familiar with it
+
+### Key Features:
+1. **Language Migration:**
+   - Originally written in Racket (a derivative of LISP) as a class project
+   - Recently rewritten in Python
+
+   > It would be even better if the "technical how" is explained
+
+2. **Gameplay Expansion:**
+   - Expanded from single player to multi-player
+
+3. **Code Refactoring:**
+   - Refactored snake object into a class with parameterized controls
+   - Allows independent control of multiple snake instances
+
+4. **Gameplay Enhancement:**
+   - Implemented new win states for interactive competitive gameplay
+
+> Provided details on the "accomplishment" of the refactoring
+
+**Note:** The revised version demonstrates significant improvements in providing specific details and context for the project.
+# Resume Writing: Effective Technical Skills Presentation
+
+## Example 3: Avoid Listing Technical Keywords Without Context
+
+### Original Version (Problematic)
+- **Position:** Developer Intern at AnalysisWorks, Vancouver, BC (Sep 2023 - Jan 2024)
+- **Issues:**
+  - Lists technical keywords without showing application
+  - Lacks action verbs in some bullet points
+  - Doesn't provide specifics on responsibilities
+
+### Revised Version (Improved)
+- **Position:** Developer Intern at AnalysisWorks, Vancouver, BC (Sep 2023 - Jan 2024)
+- **Improvements:**
+  1. Specifies company's focus
+  2. Uses action verbs to start each bullet point
+  3. Provides context for technical skills used
+  4. Demonstrates impact and scale of work
+
+#### Key Takeaways:
+- Start bullets with action verbs
+- Show how technical skills were applied
+- Provide specifics about responsibilities and achievements
+- Demonstrate the impact of your work
+
+**Note:** Effective resumes showcase not just *what* technical skills you have, but *how* you've applied them in real-world scenarios.
+# Ex. 4a: Give Details to Show Competency
+
+## CustHOMEr Service Project - BizHacks 2024
+
+### Technologies Used:
+JavaScript, HTML, CSS, React, Azure, AR.js
+
+### Original Description:
+- Developed Blue Shirt (Customer Assistant) chatbot and AR product viewing app for BestBuy
+- Integrated Microsoft Azure (Azure Bot Service) and AR.js
+- Implemented project into presentable faux BestBuy website
+
+### Revised Description:
+1. **Chatbot and AR Application:**
+   - Developed Blue Shirt (Customer Assistant) chatbot
+   - Created AR product-viewing application for BestBuy
+   - Integrated:
+     - Microsoft Azure (Azure Bot Service) for chat-box
+     - Machine learning capabilities
+     - AR.js for 3D model viewing services using 3D AR models
+
+2. **Website Implementation:**
+   - Built responsive faux BestBuy website
+   - Used:
+     - HTML parsing
+     - React buttons and textboxes
+     - JavaScript and HTML/CSS for dynamic price table column highlighting
+
+### Key Improvements:
+- Showed specific React components (buttons, textboxes)
+- Indicated responsive design, suggesting advanced skills
+- Specified use of 3D AR models, implying expertise beyond basics
+- Detailed CSS skills for dynamic highlighting
+
+### Note:
+Original description listed keywords without demonstrating how skills were applied. Revised version provides specific implementation details, showcasing competency and depth of knowledge.
+# Ex. 4b: Give Details to Show Competency
+
+## Insight UBC (Sep - Dec 2023)
+- Full stack development project split into four sprints
+- Development done with TypeScript and limited libraries
+- Enable effective querying of the metadata around campus
+- Involve working with courses, prerequisites, post course average and room scheduling
+
+## REVISED: Query UBC Campus Information (pair programming) (Sep - Dec 2023)
+
+1. **Website Development**
+   - Built from scratch
+   - Enables searching course information, room and building information around UBC campus
+
+2. **Data Processing**
+   - Opened and read data from zip files
+   - Parsed raw JSON data using nested callback functions and asynchronous promises
+
+3. **Query Engine**
+   - Programmed in TypeScript
+   - Takes user inputs from dropdown menus
+   - Builds SQL queries for different query requests
+   - Performs data computation (averages, aggregations)
+
+### Key Points:
+- Project demonstrates competency through specific implementation details
+- Highlights technical skills: TypeScript, SQL, data parsing, asynchronous programming
+- Shows complexity of queries beyond simple SELECT statements
+- Indicates full-stack development capabilities
+# Ex. 5a: Show, Don't Tell (Show How Things are Implemented/Done with the Tech Skills)
+
+## Software Engineering Design Team Member (UBC Launch Pad)
+**Oct 2023 – present**
+
+### Original:
+- Give an image of an ingredient list, implemented ingredients list, reading and parsing for an carbon footprint calculator app
+  - *Issues:* Lack of parallelism, unclear language
+
+### REVISED:
+- Converting, reading and parsing a given base64 image of an ingredient list to implement a carbon footprint calculator app in Python-Flask
+  - *Improvements:* Clearer action verbs, fixed grammar, specified image attribute and language used
+
+## Flood-Fill An Image Using Breadth-First and Depth-First Search
+**Oct 2023**
+
+### Original:
+- Implemented a flood fill algorithm on a given image that performs BFS/DFS traversal of points starting from a randomly generated set of center coordinates in the image
+  - *Issue:* Long, hard-to-read sentence
+
+### REVISED:
+- Implemented in C++ a flood-fill algorithm on a given image by performing BFS & DFS traversal of points, using a randomly generated set of coordinates as start point
+  - *Improvements:* Broke up sentence, removed unimportant details
+- Implemented function objects to determine pixel color, used stack and queue structures for BFS and DFS fills
+  - *Improvement:* Provided implementation details in separate bullet for clarity
+
+**Key Takeaways:**
+1. Use clear, active verbs
+2. Specify technologies used (e.g., Python-Flask, C++)
+3. Break long sentences into digestible points
+4. Provide relevant implementation details
+5. Remove unnecessary information for conciseness
+# Ex. 5b: Show, Don't Tell (Tech Skills Implementation)
+
+## CTF Competitions (Oct 2021 - present)
+
+- Wrote scripts to solve challenges under pressure
+- Reversed engineered stripped binary programs
+- Identified and exploited vulnerabilities in applications
+
+## REVISED: Capture the Flag Competitions (Cybersecurity and Forensics)
+
+- Reverse-engineered stripped binary program using Ghidra and Radare2
+- Performed dynamic analysis and debugged exploits using GDB
+- Identified vulnerabilities in binary applications and web services
+- Defeated common exploit mitigations:
+  - Position independent executables
+  - Address-space layout randomization
+  - Stack canaries
+  - Relocation read-only
+- Created writeups explaining vulnerabilities and exploit techniques
+
+### Key Points:
+- CTF: Capture the Flag (cybersecurity competition)
+- Revision improves clarity and specificity
+- Demonstrates technical skills with concrete examples
+- Writeups show ability to explain complex concepts
+- List allows assessment of cybersecurity competency
+# Ex. 5c: Show, Don't Tell (Show How Things are Implemented/Done with Tech Skills)
+
+## Original Version
+### Software Engineer Co-op, Back-end
+**Intersect** | Jan 2020 – Apr 2020 | Toronto, ON
+
+- Technologies: Java, Spring Boot, Kibana, Elasticsearch, Kafka, Pivotal Cloud Foundry, Spring Cloud
+- Transitioned from product strategist to software engineer role, leveraging product knowledge for third-party API integration
+- Developed microservices from scratch for large-scale product (500,000+ estimated users at launch)
+- Improved code resiliency with circuit breaker pattern for user-facing microservices
+
+### Key Observations
+- List of technologies without context
+- Promotion mentioned but not essential
+- Level 3 accomplishment statement (microservices development)
+- Demonstrated microservices competency
+
+## Revised Version
+### Software Engineer Co-op, Back-end
+**Intersect** | Jan 2020 – Apr 2020 | Toronto, ON
+
+- Technologies: Java, Spring Boot, Elasticsearch, GraphQL, Kafka, Pivotal Cloud Foundry
+- Developed/deployed 3 microservices integrating third-party API and property search for 500,000+ user real estate product
+- Maintained 4 search-related microservices using Elasticsearch, GraphQL, Kafka, Spring Cloud Netflix/Config via Pivotal Cloud Foundry
+- Implemented Kibana performance tracking for Elasticsearch microservices
+- Improved code resiliency with circuit breaker pattern for user-facing microservices
+
+### Improvements
+- Specific implementation details added
+- Technical keywords integrated into bullet descriptions
+- More comprehensive overview of responsibilities and achievements
+# Ex. 6a: From Level 2 to Level 3 Accomplishment Statements
+
+## Spotify Plugin
+- **Original:** Implemented user authentication of a Spotify plugin
+- **Revised:** Implemented Spotify OAuth authorization code flow which generates authentication tokens to develop a long-running application
+
+## User Login
+- **Original:** Implemented a user login system in PHP
+- **Revised:** Implemented secure encrypted registration and login system in PHP using password hashing
+
+## Storing Data in SQL
+- **Original:** Store data using MySQL
+- **Revised:** Used MySQL to create a database structure to store restricted user information and populate data field with more comments using Ajax without refreshing the browser
+
+---
+
+**Key Improvements:**
+1. Added specific technical details (OAuth, password hashing)
+2. Highlighted security measures
+3. Expanded on functionality and user experience (long-running application, Ajax for dynamic updates)
+4. Demonstrated more complex implementations and considerations
+# Ex. 6b: From Level 2 to Level 3 Accomplishment Statements
+
+## A* Pathfinding Algorithm
+- **Original:** Constructed a maze using a 2D array filled with object instances which allowed for modularity and efficiency
+- **Revised:** Iteratively added neighbouring nodes to the worklist in the order of most to least optimal, which decreases computation by prioritizing exploring nodes that make progress towards target and avoiding backtracking
+
+## Discord Bot
+- **Original:** Fixed bugs in MySQL databases
+- **Revised:** Fixed bugs that caused deadlocks in MySQL databases by using asynchronous functions
+
+---
+**Key Improvements:**
+1. More specific technical details
+2. Clearer explanation of problem-solving approach
+3. Emphasis on efficiency and optimization
+4. Demonstration of advanced programming concepts (e.g., asynchronous functions)
+# Ex 7: Go Beyond the Basics for 210 Project
+
+## Java Music Player App (Jan 2023 - May 2023)
+
+### Original Version
+- Developed desktop music application using Java
+- Created GUI with Swing
+- Integrated data persistence (JSON) for saving/loading versions
+- Designed test suite using JUnit testing framework
+
+### Revised Version
+- Crafted UI with Java Swing for user navigation of music collections
+- Integrated Java.sun.audio package for audio file playback
+- Developed data persistence using JSON serialization for:
+  - User credentials
+  - Personal music collections
+- Implemented Test-Driven Development (TDD):
+  - Designed test cases with JUnit
+  - Achieved 95% code coverage
+  - Ensured application stability
+
+### Key Improvements
+1. **UI Enhancement**: From basic GUI to user-friendly navigation
+2. **Core Functionality**: Added specific audio playback capabilities
+3. **Data Handling**: Expanded on JSON usage for comprehensive user data
+4. **Testing Approach**: Moved to TDD with quantifiable coverage metrics
+# Effective Resume Tips
+
+- Workshop presented by Science Co-op Workshops
+- Focus on creating impactful resumes for scientific fields
+
+## Key Points to Consider:
+1. Tailor content to specific job/field
+2. Highlight relevant skills and experiences
+3. Use clear, concise language
+4. Quantify achievements where possible
+5. Proofread thoroughly
+
+## Structure:
+- Contact information
+- Professional summary/objective
+- Education
+- Relevant experience
+- Skills
+- Publications/Projects (if applicable)
+
+## Formatting:
+- Clean, professional layout
+- Consistent font and styling
+- Appropriate use of white space
+- 1-2 pages maximum
+
+## Tips:
+- Use action verbs
+- Include keywords from job description
+- Update regularly
+- Get feedback from peers/mentors
+
+> Remember: Your resume is your first impression. Make it count!
+# Formatting
+
+## Clean layout
+- White space, consistent font, spacing, etc.
+  - Avoid single word per line (resume & cover letter)
+  - Prevent paragraph overflow to second page
+  - Start bullets with action verbs
+  - Consistent period use after bullets
+
+## Reverse chronological order
+- List from most to least recent by end date
+- For same end dates, more recent start date first
+
+## Month and Year
+- Consistent alignment: 3-letter abbreviation or full month
+  - Preferred: Jan – Apr 2015
+  - Alternative: January – September 2015
+  - Abbreviate September to Sep
+
+*Source: Science Co-op Workshops*
+# FAQs
+
+## Including Acquiring Skills
+- Yes, indicate new skills clearly
+- Explain core skills in cover letter
+- Update resume as project progresses
+
+## Including Ongoing Personal Projects
+- Include if significant progress made
+- Must be discussable in interview
+
+## Showcasing Strongest Project
+- Organize projects under different headers:
+  - e.g., "Java Projects", "Python Projects"
+  - or "Hackathon Projects", "Academic Projects"
+- Aim for strongest project in prominent position
+- Maintain reverse chronological order within sections
+
+> Note: Image from Science Co-op Workshops
+# FAQs
+
+## How do I identify my part in a group project?
+- Start bullet with "Contributions:" or "Specific responsibilities:"
+
+## Should I list my scholarship amount?
+- Explain award reason, not dollar amount
+- Example: **Greer Family Scholarship** -- awarded for academic achievement and community involvement in Computer Science Department
+
+## Should I include my high school info?
+- Less valuable at UBC level
+- Include exceptional achievements under Awards/Extra-curricular
+- Omit generic high school accolades (e.g., "Top grade 12 Math student")
+- Focus on accumulating university achievements/involvement
+
+> Encouragement: Start building your university portfolio!
+# Double Check ✅
+
+Make sure you have:
+
+- [x] Included Science Co-op footer (under Student Resources)
+- [x] Used a professional email, including phone number
+  - Email should match Workday/SCOPE for identity confirmation
+- [x] Removed physical address
+- [x] Formatted for easy speed-reading and aesthetic appeal
+- [x] Made ATS-friendly (minimize icons, columns, fancy design)
+- [x] Listed technical projects (Academic/Personal) and work/volunteer experience
+  - In reverse chronological order by end date
+- [x] Included month and year for all projects and experiences
+- [x] Added noticeable hyperlinks
+- [x] Started each bullet with an action verb
+- [x] Checked verb tenses, sentence parallelism, spelling, and grammar
+- [x] Echoed keywords from job description (without overstuffing)
+- [x] Review document after PDF conversion
+  - Check for unwanted page breaks and line spacing issues
+
+**Note:** Image footer indicates this is from Science Co-op Workshops
+# What's Your Next Step?
+
+## Workshop Information
+- **Event**: Live session workshop
+- **Purpose**: Discussion of questions
+
+## Key Points
+- Encourages attendees to bring questions
+- Interactive format for addressing concerns
+
+## Visual Elements
+- Large text: "WHAT'S YOUR NEXT STEP?"
+- Prominent question mark
+- Color scheme: Black, teal, and white
+
+## Organizer
+- Science Co-op Workshops (logo visible)
+
+---
+
+**Action Item:**
+- [ ] Prepare questions for the live session workshop

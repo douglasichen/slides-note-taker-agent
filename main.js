@@ -1,25 +1,11 @@
-import { promises as fs } from "node:fs";
-import { pdf } from "pdf-to-img";
+import { pdfToNotes } from './agent.js'
+import { writeFile } from './util.js';
 
-const bufferToBase64EncodedPng = (buffer) => {
-    return `data:image/png;base64,${buffer.toString('base64')}`;
-}
+const notes = await pdfToNotes("Module 1.1_Resume_Canvas_FA2024-1.pdf");
 
-async function main() {
-  let counter = 1;
-  const document = await pdf("example.pdf", { scale: 3 });
-  
-  for await (const image of document) {
-    // Convert the image buffer to a Base64 string
-    // const base64Image = image.buffer.toString('base64');
-    const base64Image = image.toString('base64');
-    
-    // Optionally, write the Base64 string to a text file
-    await fs.writeFile(`page${counter}.txt`, base64Image);
-    
-    break;
-    counter++;
-  }
-}
+let fullNotes = '';
+notes.forEach(note => {
+    fullNotes += `${note}\n`;
+});
 
-main();
+writeFile("./outputs/output0.txt", fullNotes);

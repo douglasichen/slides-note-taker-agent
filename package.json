@@ -1,5 +1,6 @@
 {
   "name": "slides-note-taker-agent",
+  "type": "module",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -7,5 +8,10 @@
   },
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.25.1",
+    "dotenv": "^16.4.5",
+    "pdf-to-img": "^4.1.0"
+  }
 }
