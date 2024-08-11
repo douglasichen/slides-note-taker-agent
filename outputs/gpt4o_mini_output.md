@@ -30,7 +30,6 @@
 1. Covers structure, content, and best practices for resumes.
 2. Likely involves interactive or instructional content.
 
-
 ## Definition
 - Summary of qualifications relevant to the job applied for.
 
@@ -44,6 +43,7 @@
 ## Best Practices
 - Avoid infographics; use bullet points for clarity.
 - Distinguish between resumes (1-2 pages for non-academic jobs) and CVs (unlimited pages for academia).
+- Use action verbs to enhance impact. For a list of effective action verbs, visit [Action Verbs for Resumes](https://www.indeed.com/career-advice/resumes-cover-letters/action-verbs-to-make-your-resume-stand-out).
 
 ---
 
@@ -52,13 +52,13 @@
 ## Resume Readers
 - Human vs. Machine (ATS - Applicant Tracking System).
 
-| Human | ATS |
-| - | - |
-| Prefers visual design | Struggles with graphics |
-| Handles ambiguity | Seeks specific keywords |
-| Likes simple sentences | Indifferent to length |
-| Prefers readable fonts | Basic fonts preferred |
-| Recognizes complexity | Cannot assess uniqueness |
+| Human                       | ATS                         |
+|-----------------------------|-----------------------------|
+| Prefers visual design       | Struggles with graphics     |
+| Handles ambiguity           | Seeks specific keywords     |
+| Likes simple sentences      | Indifferent to length       |
+| Prefers readable fonts      | Basic fonts preferred       |
+| Recognizes complexity       | Cannot assess uniqueness     |
 
 ### Key Differences
 Humans recognize broader terms while ATS look for specific keywords. 
@@ -145,11 +145,11 @@ Humans recognize broader terms while ATS look for specific keywords.
 
 ## Example Format
 
-| Category | Skills |
-| - | - |
-| Programming | Java, C++, Python |
-| Tools | GitHub, JIRA, Eclipse |
-| Testing | JUnit, TDD |
+| Category   | Skills                 |
+|------------|------------------------|
+| Programming| Java, C++, Python      |
+| Tools      | GitHub, JIRA, Eclipse  |
+| Testing    | JUnit, TDD             |
 
 *Note: Limit "currently acquiring" skills to 1/3 of total.*
 
@@ -173,7 +173,7 @@ Humans recognize broader terms while ATS look for specific keywords.
 
 - Tailor content to job/field.
 - Highlight relevant experiences with clear, concise wording.
-- Use action verbs and quantify achievements when possible.
+- Use action verbs and quantify achievements when possible. For more information on action verbs, see [Action Verbs for Resumes](https://www.indeed.com/career-advice/resumes-cover-letters/action-verbs-to-make-your-resume-stand-out).
 
 ---
 
