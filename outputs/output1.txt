@@ -1,0 +1,549 @@
+# Science Co-op Workshops CPSC
+
+![Workshop Logo](image_url)
+
+- **Event**: Science Co-op Workshops
+- **Organizer**: CPSC (likely Computer Science department)
+- **Visual Elements**:
+  - Gradient background (red to orange)
+  - Abstract atom-like design in background
+  - White text in rectangular frame
+
+## Key Points
+- Workshops focused on science co-op programs
+- Likely targets computer science students
+- Aims to provide practical experience through cooperative education
+
+## Potential Topics
+- Resume building for tech roles
+- Interview preparation
+- Industry insights
+- Networking opportunities
+
+---
+
+*Note: Further details about specific workshops, dates, or registration process not provided in the image.*
+# Science Co-op Workshops
+
+## Module 1.2: Cover Letter Writing
+
+### Topic: Writing Easy and Eye-Catching Cover Letters
+
+**Focus**: Pre-Reading
+
+**Field**: Computational Sciences
+
+---
+
+### Key Points:
+
+1. **Workshop Series**: Part of Science Co-op Workshops
+2. **Specific Module**: 1.2 - Cover Letter Writing
+3. **Objective**: Learn to write effective and attractive cover letters
+4. **Stage**: Pre-reading material
+5. **Target Audience**: Students in Computational Sciences
+
+### Image Description:
+- Left side: Aerial view of a university campus
+  - Green spaces and pathways
+  - Modern buildings
+  - Sunset/sunrise sky
+- Right side: Workshop information
+
+### Importance:
+- Essential skill for job applications in scientific fields
+- Tailored for computational science students
+- Part of broader co-op preparation program
+# Overview
+
+## Cover Letter Workshop
+
+1. **Structure of a Cover Letter**
+   - Key components and organization
+
+2. **Writing and Editing Tips**
+   - Best practices for crafting effective content
+
+3. **What's Next**
+   - Follow-up steps and further resources
+
+*Workshop provided by Science Co-op Workshops*
+# Purpose of a Cover Letter
+
+## Key Objectives:
+
+1. **Show Interest and Enthusiasm**
+   - Demonstrate genuine excitement for the position
+
+2. **Stand Out From Other Applicants**
+   - Highlight unique qualities and experiences
+
+3. **Demonstrate Technical and Soft Skills**
+   - Showcase relevant abilities for the job
+
+4. **Showcase Your Writing Skills**
+   - Present clear, concise, and professional communication
+
+5. **Cover Letter**
+   - Central focus connecting all objectives
+
+### Additional Notes:
+- Image created by Science Co-op Workshops
+- Circular diagram emphasizes interconnected nature of objectives
+- Each purpose represented by different colored oval
+- Cover letter serves as a crucial tool in job application process
+# 4 Key Paragraphs for Job Application
+
+## 1. Opening
+- Personalize and make "reader-centred"
+- Research company, technology, product/service
+- Include 2-3 concrete skills (with proof)
+
+## 2. Technical
+- Highlight 2-3 technical skills from job posting
+- Support with academic/personal projects, Hackathons
+- Showcase technical depth and ability
+
+## 3. Soft Skills
+- Highlight 2-3 soft skills from job posting
+- Support with work/volunteer experience, extracurriculars
+- Identify valued qualities in company
+
+## 4. Closing
+- Summarize interest in applying
+- Request interview
+- Include personal email AND interviews@sciencecoop.ubc.ca
+
+*Note: Image from Science Co-op Workshops*
+# Cover Letter Format
+
+## Structure
+1. **Date**: Format: October 13, 2022
+2. **Company Details**:
+   - Company Name
+   - Company Address
+   - City, Province Postal Code
+3. **Reference Line**: Re: Job Position Title
+4. **Salutation**: Dear <Name> / <Hiring Manager>,
+
+## Content
+1. **Opening Paragraph**: Demonstrate understanding of company and interest
+2. **2nd Paragraph**: Technical skills relevant to position
+3. **3rd Paragraph**: Soft skills from past experiences
+4. **Closing Paragraph**: Conclude, ask for interview
+
+## Closing
+- Sincerely,
+- [e-signature optional; no blank lines if not inserting signature]
+- Your Name
+
+*Note: Image from Science Co-op Workshops*
+# Cover Letter Format Tips
+
+**Limit to one page**
+
+## Key Elements:
+
+1. **Mailing Address:**
+   - Google search for company address
+   - Leave blank if not found
+
+2. **Salutation:**
+   - Use name provided in job posting
+   - SCOPE usually provides hiring manager/recruiter name
+   - Correct format:
+     - "Dear Dave," or "Dear Mr. Johnson,"
+     - "Dear Hiring Manager," or "Dear Hiring Committee,"
+   - Incorrect:
+     - ~~"Dear Mr. Dave Johnson,"~~
+     - ~~"To whomever it may concern"~~
+
+3. **Reference Line:**
+   - Indicate position applying for
+   - Example: "Re: Web Development Co-op Position"
+
+*Source: Science Co-op Workshops*
+# 1: Opening Paragraph
+
+## PURPOSE: WHY ARE YOU APPLYING?
+
+### Stand out:
+- Start strong, make an impression
+- Show knowledge about the company
+  - Share genuine experience with company/product
+  - Research: LinkedIn, Twitter, YouTube, company website
+
+### Get to the point:
+- State interest in company, position, tech stack, industry
+- Avoid generic openings like "I'm applying for position X"
+  - Reference line already states position
+
+### State your strengths:
+- Highlight specific, related technical skills and qualities
+
+> **Key Tips:**
+> - Be authentic and genuine
+> - Demonstrate company knowledge
+> - Focus on relevant skills and qualities
+> - Avoid redundancy in stating the position
+# Technical Paragraph
+
+## Purpose: How do your technical skills match?
+
+- Connect the dots for the company
+- Select 2-3 skills related to job posting
+  - If Java/JavaScript-specific, omit C/C++
+- Expand on 1-2 key project aspects
+  - Show technical prowess/depth
+  - Apply S-A-R framework
+- Address unique circumstances if needed
+  - e.g., failed grade, gap year
+
+### Key Technologies:
+- Java
+- JUnit
+- Python
+
+*Note: Tailor skills to job requirements. Demonstrate depth in relevant projects using S-A-R (Situation-Action-Result) framework.*
+# Translate Resume into Enriched Paragraph
+
+## Resume vs. Cover Letter Comparison
+
+### Resume
+- **Project**: NHL Fantasy League Database
+- **Technologies**: Oracle RDBMS, Java
+- **Features**: 
+  - Standard SQL queries
+  - Search and comparison queries
+  - Trading features
+
+### Cover Letter
+- **Project Description**: Fantasy hockey league implementation
+- **Technologies**: Java, Oracle RDBMS
+- **Process**:
+  1. Design from proposal stage
+  2. Iterate on schemas
+  3. Implement application
+- **Features**:
+  - SQL statements for search scenarios
+  - Player rankings
+  - Drafting and trading mechanics
+
+## Key Takeaways
+- Cover letter provides more detailed project lifecycle information
+- Both highlight similar technologies and core features
+- Cover letter emphasizes the development process and specific functionalities
+# Translate Resume into Enriched Paragraph
+
+## Resume: Travel Planning Social Network Project
+- **Duration:** Jan 2020 - Apr 2020
+- **Key Achievements:**
+  - Emulated travel planning social media system (PHP, MySQL)
+  - Applied database normalization for future-proofing and data integrity
+  - Implemented complex database queries with user interface
+  - Prototyped UI/UX in Figma, developed with HTML, CSS, JavaScript
+
+## Cover Letter Highlights
+- Team project (3 members)
+- Tech stack: MySQL, PHP, JavaScript
+- Responsibilities:
+  - User-facing database interactions
+  - Admin features (web page statistics)
+  - UI/UX design
+- Personal growth:
+  - First exposure to web development and PHP
+  - Stepped out of comfort zone
+  - Rapid skill acquisition
+
+## Key Takeaways
+1. Full-stack development experience
+2. Database design and optimization
+3. UI/UX prototyping and implementation
+4. Teamwork and project management
+5. Adaptability and quick learning
+# 3. Soft Skills Paragraph
+
+## Purpose: How are your transferable skills applicable?
+
+- **Draw examples from:**
+  - Work/volunteer experience
+  - Extra-curricular activities on resume
+
+- **Typical soft skills companies seek:**
+  - Communication (written and verbal)
+  - Team work
+  - Initiative
+  - Problem solving
+  - Analytical
+  - Organizational
+  - Leadership and motivation
+
+- **Character traits by company type:**
+  - Startup: "can do" attitude
+  - Small company: self-motivated, self-learner
+  - Big company: team work
+
+![Soft skills illustration](image_url_here)
+
+*Note: Image shows a stylized human head with a brain, gears, and other symbols representing soft skills and cognitive processes.*
+# Soft Skills Paragraph Example (1)
+
+## Resume: Sales Assistant, Best Buy
+
+- Assisted customers with finding products
+- Maintained current knowledge of new technological trends for computers and laptops
+- Answered customer questions about potential purchases
+
+## Cover Letter
+
+As a Sales Assistant at Best Buy:
+- Collaborated closely with sales team
+- Interacted extensively with customers about in-store products
+- Managed To-Do List project last semester:
+  - Collaborated in team of two
+  - Organized regular meetings
+  - Delegated tasks
+  - Communicated expectations
+  - Assigned action plans
+  - Followed up with team
+  - Ensured smooth project phase execution
+
+**Key Soft Skills Demonstrated:**
+- Customer service
+- Product knowledge
+- Teamwork
+- Project management
+- Communication
+- Leadership
+- Organization
+# Soft Skills Paragraph Example (2)
+
+## Resume: Undergraduate Teaching Assistant, UBC Department of Computer Science
+
+- Assisted with CPSC 121: Models of computation
+  - UBC's introductory course on discrete mathematics and circuit logic
+  - Worked with team of 10 other Teaching Assistants
+- Guided 20+ students weekly in hands-on circuit labs
+- Explained concepts patiently, using varied approaches for comprehension
+
+## Cover Letter Highlights
+
+- Worked effectively with 10 TAs for first-year Models of Computation course
+- Supported 150+ students in learning concepts
+- Coordinated lab meetings and marked exams
+- Found role fulfilling due to:
+  - Seamless teamwork
+  - Witnessing students' 'lightbulb moments'
+
+**Key Soft Skills Demonstrated:**
+- Teamwork
+- Patient instruction
+- Adaptability in teaching methods
+- Effective communication
+- Leadership in lab settings
+# 4. Closing Paragraph
+
+## Purpose: Call to Action - Ask for an Interview
+
+- **Connect with you:** include Co-op's and your contact method
+- **Typical closing:** "Best regards," "Sincerely," or "Kind regards,"
+- **Signature:** Type out your name or insert an image of your signature, if you would like
+- **Do not include new facts** about your qualifications
+
+> Tip: If you mention the company name in last paragraph, remember to update it when you reuse the paragraph
+
+*Note: Science Co-op Workshops logo visible in bottom right corner*
+# Writing and Editing Tips
+
+## Key Takeaway
+- **Human involvement crucial**: "You still need the human eyes and brain"
+
+### Implications
+1. AI assistance valuable but not sufficient
+2. Human judgment essential for:
+   - Contextual understanding
+   - Nuanced editing
+   - Creative input
+
+### Source
+- Science Co-op Workshops
+
+> Note: Despite technological advancements, human expertise remains irreplaceable in writing and editing processes.
+# Be Specific
+
+## Examples of Vague vs. Specific Statements
+
+### HTML Knowledge
+- **Vague:** I don't know much about HTML except making a personal website
+- **Specific:** In two weeks, I learned HTML and CSS on my own and created a 20-page responsive personal website.
+
+### Work Experience at TELUS
+- **Vague:** I worked with TELUS this summer and they were quite impressed with me
+- **Specific:** While working for TELUS this past summer, I successfully completed a component of a database inventory system which is now being used by customer service representatives.
+
+### Teamwork and Independence
+- **Vague:** I've both worked in teams and on my own, and prefer to work on my own
+- **Specific:** I work well in teams and independently. While working at Subway, I worked closely in a team of four people in a fast-paced environment with demanding customers. I have developed better communication skills with customers and co-workers through this experience.
+
+---
+
+*Image source: Science Co-op Workshops*
+# Be Unique
+
+## Key Strategies
+- **Customize** and be **relevant** to job posting
+- Highlight **2-3 key technical skills** applicable to position
+  - Avoid chronological project description
+  - Focus on job-relevant aspects
+  - Potential key areas: design, bugs, extra miles
+- Show personality through writing style and content presentation
+
+## Tips for Application
+1. Tailor resume to specific job
+2. Emphasize relevant technical skills
+3. Highlight unique project contributions
+4. Showcase personality in writing
+
+> Remember: Stand out by being authentic and job-focused
+
+*Source: Science Co-op Workshops*
+# Where To Begin?
+
+## Method for Sentence Construction
+
+**Formula:** Type of Skill + Concrete example + Supporting information = Sentence
+
+### Steps:
+1. Jot down information
+2. Write sentences using the formula
+
+### Example Workspace:
+- Laptop with code on screen
+- Notepad and pencil
+- Coffee cup
+- Glasses
+- Smartphone
+
+### Key Points:
+- Encourages structured thinking
+- Combines different elements for comprehensive sentences
+- Practical approach to start writing
+
+*Image credit: Science Co-op Workshops*
+# How To Write Cover Letters Faster?
+
+## Preparation Strategy
+- Prepare 3-5 sentence paragraphs on technical skills:
+  - Java
+  - C/C++
+  - Python
+  - Web development: Android, iOS
+  - Database (SQL)
+  - Testing
+
+## Assembly
+- Combine paragraphs based on job description
+- Ensure smooth flow
+
+**Key Points:**
+1. Pre-write concise skill descriptions
+2. Tailor to specific job requirements
+3. Maintain coherent narrative
+
+*Note: This approach streamlines cover letter writing for technical positions.*
+# GenAI & Cover Letter Writing
+
+## GenAI Strengths
+- Can create a good starting point
+- Excels at adding persuasive elements and transition words/phrases
+
+## GenAI Weaknesses
+- May include unnecessary details (e.g., dates)
+- Often repetitive, mirroring resume content
+- Can be wordy with overuse of adjectives (e.g., "robust")
+- Lacks uniqueness; similar outputs for different users
+
+## Example Project
+- Java Music Player App (Jan-May 2023)
+- Features:
+  - Desktop music application using Java
+  - GUI with Swing
+  - JSON data persistence
+  - JUnit test suite
+
+## AI-Generated Cover Letter Analysis
+- Pros:
+  - Highlights project details and skills
+  - Emphasizes user-centric design
+- Cons:
+  - Verbose and potentially overdetailed
+  - Uses generic phrases (e.g., "significant project")
+
+**Note:** Balance AI assistance with personal touch for effective cover letters.
+# "Do..." Guidelines for Job Applications
+
+## Key Points:
+- Be concise: 1-page max
+- Use job posting keywords
+- Provide concrete skill examples
+- 4 paragraphs max (2 technical if needed)
+- 11+ font size, match resume format
+- Maintain consistency
+
+## Formatting Rules:
+- Hyphenation: "fast-paced", "front-end"
+- Numbers: Spell out 1-9, use numerals for 10+
+
+## Final Step:
+**Proofread for grammar and spelling!**
+
+*Source: Science Co-op Workshops*
+# "Do Not..." Resume Writing Tips
+
+![Red X symbol](image_url)
+
+## Avoid These Practices:
+
+- Copy what is exactly on your resume
+- Start a sentence with:
+  - "I don't have this but"
+  - "I only have ..."
+- Include negative information
+- Overuse phrases like:
+  - "I think"
+  - "I believe"
+  - "I had to"
+- Start each sentence with "I"
+- Rely fully on AI to write your document
+
+*Source: Science Co-op Workshops*
+# Editing
+
+- Spell checker limitations (underlined = correct):
+  - **JSON** vs JASON
+  - jUnit vs Junit vs **JUnit** (teach spell checker NOT to auto-correct)
+  - Typescript vs **TypeScript**
+  - Javascript vs **JavaScript**
+  - **MATLAB** vs Mathlab
+  - **Perl** vs Pearl
+  - **Quite** vs quit/quiet
+  - **Fourth** vs Forth Year
+  - University of British **Columbia** vs Colombia
+
+- **Always triple check or have someone else check it for you!**
+
+> Note: Spell checkers don't catch all errors, especially with technical terms and proper nouns. Manual review is crucial.
+# What's Next?
+
+## Live Zoom Session
+
+- Bring questions for discussion
+- Interactive Q&A format
+
+### Key Points:
+- **Format**: Live Zoom session
+- **Purpose**: Discussion and Q&A
+- **Action**: Prepare questions in advance
+
+---
+*Note: Event organized by Science Co-op Workshops*

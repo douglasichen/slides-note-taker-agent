@@ -1,0 +1,3 @@
+{
+    "notes": "# Editing\n\n- Spell checker limitations (underlined = correct):\n  - **JSON** vs JASON\n  - jUnit vs Junit vs **JUnit** (teach spell checker NOT to auto-correct)\n  - Typescript vs **TypeScript**\n  - Javascript vs **JavaScript**\n  - **MATLAB** vs Mathlab\n  - **Perl** vs Pearl\n  - **Quite** vs quit/quiet\n  - **Fourth** vs Forth Year\n  - University of British **Columbia** vs Colombia\n\n- **Always triple check or have someone else check it for you!**\n\n> Note: Spell checkers don't catch all errors, especially with technical terms and proper nouns. Manual review is crucial."
+}
