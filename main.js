@@ -1,11 +1,11 @@
 import { pdfToNotes } from './agent.js'
 import { writeFile } from './util.js';
 
-const notes = await pdfToNotes("Module 1.2_Cover Letter_Canvas_FA2024-1.pdf");
+const notes = await pdfToNotes("1b-staticscalars-arrays-102-1247.pdf");
 
 let fullNotes = '';
 notes.forEach(note => {
     fullNotes += `${note}\n`;
 });
 
-writeFile("./outputs/output1.txt", fullNotes);
+writeFile("./outputs/$1b-staticscalars-arrays-102-1247_output.txt", fullNotes);

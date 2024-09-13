@@ -1,0 +1,3 @@
+{
+    "notes": "# SM213 ISA: First Five Instructions\n\n| # | Name | Semantics | Assembly | Machine |\n|---|------|-----------|----------|----------|\n| 1 | load immediate | `r[d] ← v` | `ld $v, rd` | `0d-- vvvvvvvv` |\n| 3 | load base + offset | `r[d] ← m[r[s]+4*p]` | `ld o(rs), rd` | `1psd` |\n| 5 | load indexed | `r[d] ← m[r[s]+4*r[i]]` | `ld (rs, ri, 4), rd` | `2sid` |\n| 2 | store base + offset | `m[r[d]+4*p] ← r[s]` | `st rs, o(rd)` | `3spd` |\n| 4 | store indexed | `m[r[d]+4*r[i]] ← r[s]` | `st rs, (rd, ri, 4)` | `4sdi` |\n\n**Key:**\n- `r`: register\n- `m`: memory\n- `d`, `s`, `i`: register indices\n- `v`: immediate value\n- `p`: offset\n- `o`: offset in assembly syntax"
+}

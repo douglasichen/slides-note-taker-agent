@@ -1,0 +1,3 @@
+{
+    "notes": "# The SM213 CPU Implementation\n\n## Java syntax\n\n### Internal registers\n- `insOp0, insOp1, insOp2, insOpImm, insOpExt, pc`\n- Read using `get()`\n- Change using `set(value)`\n\n```java\nint i = insOp1.get();\ninsOp1.set(i);\n```\n\n### General purpose registers\n- `reg.get(registerNumber)`\n- `reg.set(registerNumber, value)`\n\n```java\nint i = reg.get(3);  // i <- r[3]\nreg.set(3, i);       // r[3] <- i\n```\n\n### Main memory\n- `mem.readInteger(address)`\n- `mem.writeInteger(address, value)`\n\n```java\nint i = mem.readInteger(0x1000);  // i <- m[0x1000]\nmem.writeInteger(0x1000, i);      // m[0x1000] <- i\n```"
+}

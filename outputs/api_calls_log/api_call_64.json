@@ -1,0 +1,3 @@
+{
+    "notes": "# printf and scanf in C\n\n## printf\n- Used to output text to the console\n- Syntax: `printf(\"format string\", arg1, arg2, ...)`\n- Format string: in double quotes, contains exact characters and placeholders\n- Arguments replace placeholders in order\n\n### Placeholders:\n- `%s`: string\n- `%d` or `%i`: signed integer (base 10)\n- `%u`: unsigned integer (base 10)\n- `%x`: hexadecimal integer\n\nExample:\n```c\nprintf(\"My grade in %s was %d.\\n\", \"CPSC 213\", gr);\n// gr is an integer variable\n```\n\n## scanf\n- Used to read text from the console\n- Similar to printf, but for input\n- Arguments must be pointers to destination variables\n\nNote: Be cautious with scanf usage due to potential security risks."
+}

@@ -1,0 +1,3 @@
+{
+    "notes": "# Aside: Strings in C\n\n## Implementation\n- Strings are arrays of characters\n- Each element: one-byte integer (char type)\n- Represents character as ASCII table entry\n- [ASCII table reference](www.asciitable.com)\n\n## Character Representation\n- 'A' = 65₁₀\n- 'a' = 97₁₀\n- '0' = 48₁₀\n- ' ' (space) = 32₁₀\n- '\\0' (0₁₀) = end of string marker\n\n## Example: \"CPSC 213\"\n| 'C' | 'P' | 'S' | 'C' | ' ' | '2' | '1' | '3' | '\\0' |\n|-----|-----|-----|-----|-----|-----|-----|-----|------|\n| 67  | 80  | 83  | 67  | 32  | 50  | 49  | 51  | 0    |\n\n## Special Characters\n- '\\n': line break\n- '\\r': carriage return (start of line, no new line)\n\n---\n*2024W1 - Mike Feeley, Jonatan Schroeder, Robert Xiao, Jordon Johnson, Geoffrey Tien*"
+}

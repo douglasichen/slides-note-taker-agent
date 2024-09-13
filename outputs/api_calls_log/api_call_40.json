@@ -1,0 +1,3 @@
+{
+    "notes": "# The Simple Machine (SM213) ISA\n\n## Architecture\n- **Register file:** Eight 32-bit general purpose registers (numbered 0-7)\n- **CPU:** One cycle per instruction (fetch + execute)\n- **Main Memory:** Byte addressed, Big endian integers\n\n## Instruction Format\n- 2- or 6-byte instructions (each character below is a hex digit)\n  - `x-01, xxsd, x0vv, or x-sd vvvvvvvv`\n- Where:\n  - `x` is an opcode (unique identifier for this instruction)\n  - `-` means unused\n  - `s` and `d` are operand register numbers\n  - `vv, vvvvvvvv` are immediate/constant values\n\n---\n*2024W1 | Mike Feeley, Jonatan Schroeder, Robert Xiao, Jordon Johnson, Geoffrey Tien*"
+}

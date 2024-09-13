@@ -1,0 +1,3 @@
+{
+    "notes": "# Static Variable Access\n\n## Scalars\n\n### Code Example\n```c\nint a;\nint b[10];\n\nvoid foo() {\n    a = 0;\n    b[a] = a;\n}\n```\n\n### Static Memory Layout\n- 0x1000: value of a\n- 0x2000: value of b[0]\n- 0x2004: value of b[1]\n- ...\n- 0x2024: value of b[9]\n\n## Key Observations\n- Addresses of a, b[0], b[1], ... are **constants known to the compiler**\n\n## Analysis\n1. How `a = 0;` changes machine state:\n   - Updates value at memory address 0x1000\n2. Hardware instructions needed:\n   - Load immediate value 0\n   - Store to memory address 0x1000\n\n## Note\n- Static variables have fixed memory addresses\n- Compiler optimizes access using these known addresses"
+}

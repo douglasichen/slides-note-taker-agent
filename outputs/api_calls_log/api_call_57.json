@@ -1,0 +1,3 @@
+{
+    "notes": "# Pointer Arithmetic\n\n## Purpose\n- Alternative way to access array elements compared to a[i]\n\n## Addresses as Numbers\n- Adding/subtracting integer index to pointer (address):\n  - Results in address of another pointer of same type\n  - Pointer value offset by index × size of pointer's referent\n  - Example: Adding 3 to `int*` yields pointer value 12 bytes larger\n\n## Pointer Subtraction\n- Subtracting two pointers of same type:\n  - Results in integer: number of referent-type elements between pointers\n  - Example: `(&a[7] - &a[2]) == 5 == (a+7) - (a+2)`\n\n## Note\n*(b+i) 😮 (Likely refers to dereferencing pointer arithmetic result)\n\n---\n2024W1 | Mike Feeley, Jonatan Schroeder, Robert Xiao, Jordon Johnson, Geoffrey Tien | Slide 58"
+}

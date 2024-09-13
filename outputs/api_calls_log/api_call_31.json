@@ -1,0 +1,3 @@
+{
+    "notes": "# Alternatives for instruction sets\n\n## RTL instruction for `b[a] = a`\n\n### Option 1: Static base address, index (address), and value (address)\n\n```\nm[0x2000 + 4*m[0x1000]] ← m[0x1000]\n```\n\n#### Inputs:\n- Base address (0x2000)\n- Index address (0x1000)\n- Input value address (0x1000)\n\n#### Encoding:\n- 13 bytes to encode the instruction (instruction code + three integers)\n\n2024W1 | Mike Feeley, Jonatan Schroeder, Robert Xiao, Jordon Johnson, Geoffrey Tien | 32"
+}

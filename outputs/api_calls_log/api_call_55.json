@@ -1,0 +1,3 @@
+{
+    "notes": "# Summary: Arrays in Java and C\n\n## Common Features in Java and C\n- Array: list of items of the same type\n- Elements named by non-negative integers starting at 0\n- Access syntax: `b[i]` for element i of array b\n\n## Java Specifics\n- Variables store references to arrays\n\n## C Specifics\n- Variables can store:\n  - Pointer to the array\n  - The array itself\n- Distinguished by variable type (pointer vs array variable)\n- Array element access via pointer:\n  - `b[i]`\n  - `*(b+i)`\n\n> Note: The image includes a questioning emoji next to the `*(b+i)` syntax, possibly indicating this is a point of confusion or emphasis."
+}

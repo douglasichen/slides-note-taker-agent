@@ -1,0 +1,3 @@
+{
+    "notes": "# Alternatives for instruction sets\n\n## Instructions for `a = 0`\n\n## Option 3: dynamic address and value\n\n```\nr[0] <- 0x0\nr[1] <- 0x1000\nm[r[1]] <- r[0]\n```\n\n- 2 bytes for memory instruction\n  - instruction code, two registers\n- More flexibility (address and value can be dynamic)\n\n---\n*Note: This slide is part of a presentation by Mike Feeley, Jonatan Schroeder, Robert Xiao, Jordon Johnson, Geoffrey Tien for 2024W1.*"
+}

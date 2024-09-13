@@ -1,0 +1,3 @@
+{
+    "notes": "# Dynamic allocation in C\n\n- Dynamic allocation uses `malloc` function\n- Returns address of byte block, no type or initialization\n  - Element type and dereferencing interpret binary data\n- More details in future units\n\n2024W1 | Mike Feeley, Jonatan Schroeder, Robert Xiao, Jordon Johnson, Geoffrey Tien | 51"
+}

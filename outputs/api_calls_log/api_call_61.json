@@ -1,0 +1,3 @@
+{
+    "notes": "# Summary: Static scalar and array variables\n\n## Static variables\n- Compiler knows address (memory location) of variable\n\n## Static scalars and arrays\n- Compiler knows address of scalar value or array\n\n## Dynamic arrays\n- Compiler does not know address of array\n\n## C vs. Java\n### What C does that Java doesn't:\n- Static arrays\n- Array access using pointer dereference operator\n- Pointer arithmetic\n\n### What Java does that C doesn't:\n- Type-safe dynamic allocation\n- Automatic array bounds checking\n\n2024W1 | Mike Feeley, Jonatan Schroeder, Robert Xiao, Jordon Johnson, Geoffrey Tien | 62"
+}

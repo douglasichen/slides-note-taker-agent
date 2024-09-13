@@ -1,0 +1,3 @@
+{
+    "notes": "# Instructions Needed So Far\n\n## Requirements for Scalars\n- Assign value to global variable:\n  1. **Load constant into register:**\n     `r[x] ← v` (v is constant integer)\n  2. **Store register value in memory:**\n     `m[r[y]] ← r[x]` (r[y] has address)\n  3. **Load memory value into register:**\n     `r[x] ← m[r[y]]` (r[y] has address)\n\n## Additional Requirements for Arrays\n- **Store value at indexed memory location:**\n  `m[r[z] + r[x]*4] ← r[y]`\n  (address = register * 4 + base address)\n- **Load value from indexed memory location:**\n  `r[y] ← m[r[z] + r[x]*4]`\n  (address = register * 4 + base address)\n\n---\n*2024W1 | Mike Feeley, Jonatan Schroeder, Robert Xiao, Jordon Johnson, Geoffrey Tien*"
+}

@@ -1,0 +1,3 @@
+{
+    "notes": "# C pointers (Compared to Java)\n\n## Terminology\n- Use **pointer** instead of *reference* (in Java); same meaning\n\n## Declaration\n- Type is pointer to element type, indicated with *\n- Stored internally as address, regardless of element type\n\n## Type safety\n- Any pointer can be typecast to any other pointer type\n\n## Bounds checking\n- C performs **no array bounds checking**\n- Out-of-bounds access manipulates memory not part of array\n- Performance is faster, but major source of *vulnerability*\n\n---\n*2024W1 | Mike Feeley, Jonatan Schroeder, Robert Xiao, Jordon Johnson, Geoffrey Tien*"
+}

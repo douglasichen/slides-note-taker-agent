@@ -1,0 +1,3 @@
+{
+    "notes": "# Machine and Assembly Syntax\n\n## Machine Code\n- `[addr:] x-01 [vvvvvvvv]`\n  - **addr:** sets starting address for subsequent instructions\n  - **x-01:** hex value of instruction with opcode x and operands 0 and 1\n  - **vvvvvvvv:** hex value of optional extended value\n\n## Assembly Code\n- `[label:] [instruction | directive] [# comment]`\n  - **directive:** :: (.pos number) | (.long number)\n  - **instruction:** :: opcode operand+\n  - **operand:** :: $literal | reg | offset(reg) | (reg, reg, 4)\n  - **reg:** :: r0..7\n  - **literal:** :: number\n  - **offset:** :: number\n  - **number:** :: decimal | 0xhex"
+}
