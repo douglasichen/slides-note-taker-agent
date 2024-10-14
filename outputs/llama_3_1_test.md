@@ -100,3 +100,16 @@ int main()
 ### Output
 
 The output is the maximum sum of submatrices with dimensions up to `KxK` within the original matrix.
+
+| **Category** | **Description** |
+| --- | --- |
+| **Problem Context** | Finds the maximum sum of submatrices with dimensions up to KxK within a larger matrix of
+size NxN. |
+| **Input** | Two integers: N (matrix size) and K (submatrix dimension). |
+| **Data Structure** | 2D array `ar[2][MAXN*MAXN]` stores sums of submatrices. |
+| **Update Strategy** | Iteratively updates the representation for increasing values of K, starting from 2. |
+| **Iteration Process** | Swaps contents of `ar[0]` and `ar[1]`, then updates `ar[1]` by considering overlap
+between previous iterations. |
+| **Answer Calculation** | Calculates the maximum sum of submatrices with dimensions up to KxK after all
+iterations. |
+| **Output** | Maximum sum of submatrices with dimensions up to KxK within the original matrix. |
